@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\moham\AndroidStudioProjects\FinalFinalGPS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc679826d488549f0bdd770c2e177cce404130fe">
+        <dex dex="C:\Users\moham\AndroidStudioProjects\FinalFinalGPS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_54fce0c17ca007e4f7afd09b7d67ca916c977d5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\moham\AndroidStudioProjects\FinalFinalGPS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\moham\AndroidStudioProjects\FinalFinalGPS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7a6e36d3d2ed6bc6b1178e82ab9d6965cdef31a8\classes.dex" />
+    </item>
+
+</items>
